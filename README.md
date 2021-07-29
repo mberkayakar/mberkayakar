@@ -11,6 +11,4 @@
 <br>
 <hr>
  
-<img src="dotnet.svg" width : "20"; height :"20">
-
- ![](dotnet.svg =25x25)
+ 
