@@ -1,15 +1,18 @@
-### Hi there 👋
-<!--
-**mberkayakar/mberkayakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Merhabalar ben Berkay AKAR</h1>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mberkayakar" alt="Görüntülenme Sayısı" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<h3>İletişim için:<h3>
+ 
+-📧 **m.berkay.akar@gmail.com**
+-📱  ** 0541 597 54 42
+<hr>
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mberkayakar)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
+ 
+
+ 
