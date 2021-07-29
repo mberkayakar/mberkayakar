@@ -1,6 +1,6 @@
 <h1 align="center"> Berkay AKAR</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mberkayakar" alt="Görüntülenme Sayısı" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mberkayakar" alt="Görüntülenme Sayısı" /> </p>
 
 <hr>
 <h3>İletişim için:<h3>
