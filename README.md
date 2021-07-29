@@ -10,7 +10,7 @@
  
 <hr>
   
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mberkayakar)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/wakatime?username=mberkayakar)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
