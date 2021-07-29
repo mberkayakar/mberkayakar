@@ -5,9 +5,9 @@
 <hr>
 <h3 align="center">İletişim için:<h3>
  
- <p>
+ <a href="m.berkay.akar@gmail.com">m.berkay.akar@gmail.com</a><br>
 -📧 [m.berkay.akar@gmail.com](mailto:m.berkay.akar@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
- </p>
+ 
   
   <br>
  
