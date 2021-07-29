@@ -11,4 +11,4 @@
 <br>
 <hr>
  
-<img src="dotnet.svg" width : "20px"; height :"20px">
+<img src="dotnet.svg" width : "20"; height :"20">
