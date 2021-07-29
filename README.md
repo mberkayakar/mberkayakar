@@ -10,7 +10,7 @@
 -📧 [m.berkay.akar@gmail.com](mailto:.berkay.akar@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
  <br>
  
--📱 [+90 (541) 597 - 54 - 42](tel:+905415975442?subject=[GitHub]%20Source%20Han%20Sans)
+-📱 [020 7946 0123](tel:+442079460123)
 
  
 <hr>
