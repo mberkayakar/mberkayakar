@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mberkayakar" alt="Görüntülenme Sayısı" /> </p>
 
 <hr>
-<h3>İletişim için:<h3>
+<h3 align="center">İletişim için:<h3>
  
 -📧 **m.berkay.akar@gmail.com**
  <br>
