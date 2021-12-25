@@ -8,6 +8,46 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Berkay AKAR.  |
 
 
+## My Utilities and Achievements
+
+  ### Backend
+  <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" />
+ 
+  <img src="https://physionet.org/static/images/about/django-logo.svg" alt="visualcode" width="40" height="40"/>
+ 
+  </p>
+  
+  ### Frontend
+  <p align="left">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+ </p>
+  
+  ### Datebase
+  <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="40" height="40"/>
+ </p>
+  
+ ### OS
+  <p align="left">
+    <img src ="https://i0.wp.com/blog.ncce.org/wp-content/uploads/2017/04/microsoft-windows-logo-vector-download.jpg?fit=512%2C512" width="40" height="40" />
+   <img src ="https://banner2.cleanpng.com/20180920/fol/kisspng-windows-server-2-12-logo-organization-brand-windows-server-5ba39cd715d540.3534964615374491750894.jpg" width="40" height="40" />
+   <img src ="https://i2.wp.com/www.novicus.com/wp-content/uploads/2016/08/Linux-logo-without-version-number-banner-sized.jpg?ssl=1" width="40" height="40" />
+  <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" />
+  </p>
+  
+  ### Others
+   <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="40" /> 
+ <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
+  <img src="https://image.pngaaa.com/442/168442-middle.png" width="80" height="40" />
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mberkayakar" alt="Görüntülenme Sayısı" /> </p>
 
