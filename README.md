@@ -4,7 +4,7 @@
 
 | **Language** | **About Me** |
 | -------------: | :------------- |
-| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello, . |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello, I m Berkay AKAR. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Berkay AKAR.  |
 
 
