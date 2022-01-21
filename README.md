@@ -4,7 +4,7 @@
 
 | **Language** | **About Me** |
 | -------------: | :------------- |
-| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'> | Hello, I m Berkay AKAR. |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'> | Hello, I m Berkay AKAR and I am a Computer Engineer / Full Stack Developer. From a young age I have always been interested in IT and made it a hobby of following the emerging technologies. Thinking that the Computer Science world is suitable for me, I took the decision of studying Computer Engineering in Duzce University in 2017 and thus made an introduction to the world of Informatics. Along with my academic studies in my university life and the experience that I have gained from different processes in the sector, I have various projects and apps in CS. You can check my webpage and GitHub profile to see them.|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Berkay AKAR. Küçüklüğümden beri bilişim teknolojilerine ilgimin olması ve yeni çıkan teknolojileri takip etmeyi bir hobi haline getirmem nedeni ile bilişim dünyasının bana uygun olduğunu düşünerek 2017 yılında aldığım bir karar neticesinde Düzce Üniversitesi - Bilgisayar Mühendisliği bölümünü tercih etmiş ve bilişim dünyasına bir giriş yapmış bulunmaktayım. Gerek Üniversite hayatımdaki akademik çalışmalarım gerekse sektörde içerisinde buluduğum çeşitli süreçlerden edinmiş olduğum tecrübe ile Bilgisayar Bilimleri hakkında birçok daldan çeşitli projelerim ve uygulamalarım bulunmaktadır. Gerek kişisel sayfam üzerinde gerekse github üzerinde işinize yarayabileceğini düşündüğüm çalışmalarımı paylaştım. |
 
 
